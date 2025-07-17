@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "entryPoint": "./BookHive/App.tsx",
+    "extra": {
+      "eas": {
+        "projectId": "59030566-7c43-4012-aca2-342593401c8b"
+      }
+    },
+    "android": {
+      "package": "com.shraddhamhaske01.bookhive"
+    }
+  }
+}
+

@@ -1,0 +1,85 @@
+{
+    "notifications": [
+      {
+        "type": "sale",
+        "message": "Flat 20% off on Haunted by Andeline! Grab your spooky thrill today! 📖👻"
+      },
+      {
+        "type": "sale",
+        "message": "Mega Sale: Twisted Lies available at half price for the next 24 hours! 😱✨"
+      },
+      {
+        "type": "sale",
+        "message": "Limited Offer! Buy 2 novels, get 1 free – only till midnight!"
+      },
+      {
+        "type": "sale",
+        "message": "Secret Sale unlocked: Romantic Escapes now at ₹99 only! 💖📚"
+      },
+      {
+        "type": "missing_you",
+        "message": "Moti, your favorite book Haunted is feeling lonely without you… Come visit!"
+      },
+      {
+        "type": "missing_you",
+        "message": "Adeline’s characters are missing your curious eyes... 📖👀"
+      },
+      {
+        "type": "missing_you",
+        "message": "Storyland isn’t the same without you... Time for a little escape?"
+      },
+      {
+        "type": "missing_you",
+        "message": "Your bookshelf whispered... ‘Come back soon!’ 📚💬"
+      },
+      {
+        "type": "biography_quote",
+        "message": "Elon Musk says: 'Dream bigger than the stars.' 🚀 Read his journey today!"
+      },
+      {
+        "type": "biography_quote",
+        "message": "Michelle Obama whispers: 'Your story matters.' Dive into Becoming!"
+      },
+      {
+        "type": "biography_quote",
+        "message": "APJ Abdul Kalam reminds you: 'Wings of Fire are within you.' 🔥 Read now!"
+      },
+      {
+        "type": "biography_quote",
+        "message": "Steve Jobs said: 'Stay hungry. Stay foolish.' – Will you? 🍏✨"
+      },
+      {
+        "type": "character_message",
+        "message": "Zade from Haunted texted: 'Ready for another spooky adventure?' 👻"
+      },
+      {
+        "type": "character_message",
+        "message": "Rhysand from ACOTAR whispered: 'There's a night court seat waiting for you.' 🌌"
+      },
+      {
+        "type": "character_message",
+        "message": "Sherlock Holmes messaged: 'Mysteries won't solve themselves. Ready, Watson?' 🔍"
+      },
+      {
+        "type": "character_message",
+        "message": "Hermione Granger said: 'It's LeviOsa, not LevioSA… but first, let's study together!' 🪄"
+      },
+      {
+        "type": "motivation",
+        "message": "A page a day keeps reality away 📖✨ Start reading!"
+      },
+      {
+        "type": "motivation",
+        "message": "Your next adventure is just one chapter away… Let's go!"
+      },
+      {
+        "type": "motivation",
+        "message": "Today’s a perfect day to start a new book. Which world will you enter?"
+      },
+      {
+        "type": "motivation",
+        "message": "Little steps = Big stories. Read 5 pages today?"
+      }
+    ]
+  }
+  

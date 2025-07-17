@@ -1,0 +1,122 @@
+[
+  {
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "imageUrl": "https://covers.openlibrary.org/b/id/10500000-L.jpg",
+    "description": "The Great Gatsby is a critically acclaimed book by F. Scott Fitzgerald.",
+    "price": 191,
+    "rent": 120,
+    "rating": 4.9,
+    "genre": "Novel",
+    "deposit": 100,
+    "totalRent": 220
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "imageUrl": "https://covers.openlibrary.org/b/id/10500001-L.jpg",
+    "description": "To Kill a Mockingbird is a critically acclaimed book by Harper Lee.",
+    "price": 376,
+    "rent": 229,
+    "rating": 4.9,
+    "genre": "Story",
+    "deposit": 100,
+    "totalRent": 329
+  },
+  {
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "imageUrl": "https://covers.openlibrary.org/b/id/10500002-L.jpg",
+    "description": "The Catcher in the Rye is a critically acclaimed book by J.D. Salinger.",
+    "price": 292,
+    "rent": 175,
+    "rating": 4.1,
+    "genre": "Story",
+    "deposit": 100,
+    "totalRent": 275
+  },
+  {
+    "title": "The Book Thief",
+    "author": "Markus Zusak",
+    "imageUrl": "https://covers.openlibrary.org/b/id/10500003-L.jpg",
+    "description": "The Book Thief is a critically acclaimed book by Markus Zusak.",
+    "price": 200,
+    "rent": 120,
+    "rating": 4.3,
+    "genre": "Academic",
+    "deposit": 100,
+    "totalRent": 220
+  },
+  {
+    "title": "Life of Pi",
+    "author": "Yann Martel",
+    "imageUrl": "https://covers.openlibrary.org/b/id/10500004-L.jpg",
+    "description": "Life of Pi is a critically acclaimed book by Yann Martel.",
+    "price": 394,
+    "rent": 245,
+    "rating": 4.5,
+    "genre": "Horror",
+    "deposit": 100,
+    "totalRent": 345
+  },
+  {
+    "title": "The Kite Runner",
+    "author": "Khaled Hosseini",
+    "imageUrl": "https://covers.openlibrary.org/b/id/10500005-L.jpg",
+    "description": "The Kite Runner is a critically acclaimed book by Khaled Hosseini.",
+    "price": 335,
+    "rent": 199,
+    "rating": 3.7,
+    "genre": "Novel",
+    "deposit": 100,
+    "totalRent": 299
+  },
+  {
+    "title": "A Man Called Ove",
+    "author": "Fredrik Backman",
+    "imageUrl": "https://covers.openlibrary.org/b/id/10500006-L.jpg",
+    "description": "A Man Called Ove is a critically acclaimed book by Fredrik Backman.",
+    "price": 454,
+    "rent": 275,
+    "rating": 4.5,
+    "genre": "Romance",
+    "deposit": 100,
+    "totalRent": 375
+  },
+  {
+    "title": "The Midnight Library",
+    "author": "Matt Haig",
+    "imageUrl": "https://covers.openlibrary.org/b/id/10500007-L.jpg",
+    "description": "The Midnight Library is a critically acclaimed book by Matt Haig.",
+    "price": 276,
+    "rent": 165,
+    "rating": 3.9,
+    "genre": "Romance",
+    "deposit": 100,
+    "totalRent": 265
+  },
+  {
+    "title": "Little Fires Everywhere",
+    "author": "Celeste Ng",
+    "imageUrl": "https://covers.openlibrary.org/b/id/10500008-L.jpg",
+    "description": "Little Fires Everywhere is a critically acclaimed book by Celeste Ng.",
+    "price": 214,
+    "rent": 129,
+    "rating": 3.7,
+    "genre": "Story",
+    "deposit": 100,
+    "totalRent": 229
+  },
+  {
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "imageUrl": "https://covers.openlibrary.org/b/id/10500009-L.jpg",
+    "description": "The Alchemist is a critically acclaimed book by Paulo Coelho.",
+    "price": 416,
+    "rent": 250,
+    "rating": 3.8,
+    "genre": "Novel",
+    "deposit": 100,
+    "totalRent": 350
+  }
+]
