@@ -60,5 +60,6 @@ This was an **individual project**, where I was solely responsible for:
 
 ---
 
-## 📁 Project Structure
+
+
 
